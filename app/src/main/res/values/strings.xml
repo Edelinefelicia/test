@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">test</string>
+    <array name="tujuan">
+        <item>Tujuan</item>
+        <item>Aceh, Indonesia</item>
+        <item>Bali, Indonesia</item>
+        <item>Banten, Indonesia</item>
+        <item>Bengkulu, Indonesia</item>
+        <item>Gorontalo, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Jambi, Indonesia</item>
+        <item>Jawa Barat, Indonesia</item>
+        <item>Jawa Tengah, Indonesia</item>
+        <item>Jawa Timur, Indonesia</item>
+    </array>
+</resources>
